@@ -1,0 +1,8 @@
+# Story Miner pool — public RSS, mix of martech/industry/business + maintainer's reddit picks
+https://www.techmeme.com/feed.xml
+https://martech.org/feed/
+https://marketingland.com/feed
+https://searchengineland.com/feed
+https://www.reddit.com/r/marketing/.rss
+https://www.reddit.com/r/SEO/.rss
+https://www.reddit.com/r/B2B_SaaS/.rss
